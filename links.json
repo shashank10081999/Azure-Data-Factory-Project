@@ -1,0 +1,10 @@
+[
+    {
+        "github_relative_path" : "Azure-Data-Factory-Project/refs/heads/main/olist_customers_dataset.csv",
+        "filename" : "olist_customers_dataset.csv"
+    },
+    {
+        "github_relative_path" : "Azure-Data-Factory-Project/refs/heads/main/olist_order_items_dataset.csv",
+        "filename" : "olist_order_items_dataset.csv"
+    }
+]
